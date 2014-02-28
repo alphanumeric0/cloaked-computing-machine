@@ -1,0 +1,9 @@
+django-celery
+PyYAML
+redis
+django-registration
+Pillow
+python-social-auth
+django-extensions
+filemagic
+requirements-parser
